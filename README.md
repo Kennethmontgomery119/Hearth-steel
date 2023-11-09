@@ -1,4 +1,4 @@
-# Heath & Steel
+# Hearth & Steel
 
 ## User stories
 
@@ -23,3 +23,6 @@ Personas:
 - Metal working enthusiast
 - Collecter of knives
 - Blacksmithing colaborator
+```
+## Inspiration
+
